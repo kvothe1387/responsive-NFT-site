@@ -4,7 +4,7 @@ A satirical landing page for a fictional NFT marketplace that humorously present
 
 ## 🚀 Live Demo
 
-[Visit the live site](https://kvothe1387.github.io/responsive-build-site/)
+[Visit the live site](https://kvothe1387.github.io/responsive-NFT-site/)
 
 ## 📸 Screenshot
 
