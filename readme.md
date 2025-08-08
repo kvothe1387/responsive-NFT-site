@@ -131,6 +131,8 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 **kvothe1387**
 - GitHub: [@kvothe1387](https://github.com/kvothe1387)
+- LinkedIn: [David McCullough](https://www.linkedin.com/in/davidmcc-webdev/)
+- Portfolio: [My Portfolio](https://davidmcc.netlify.app/)
 
 ## 🙏 Acknowledgments
 
